@@ -2,7 +2,7 @@
 
 
 # jogo-da-memoria
-Jogo da memória usando JavaScript
+Jogo da memória usando JavaScript <br>
 https://game-memory-by-erick.netlify.app
 
 <br><br>
